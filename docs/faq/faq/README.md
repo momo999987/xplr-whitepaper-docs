@@ -1,374 +1,565 @@
-# FAQ
+# 常見問題 (FAQ)
 
-## Platform Basics
-
-**Q: What is XPLR?**
-A: XPLR is the world's first comprehensive NFT trading platform based on algorithmic trading. Our platform combines innovative trading mechanisms with community-driven incentives to create a sustainable ecosystem for NFT enthusiasts. We revolutionize how traders interact with digital assets through our unique pooling algorithm.
-
-**Q: How does the Pooling Algorithm Model work?**
-A: Our innovative pooling algorithm aggregates all NFTs in a unified pool where buyers and sellers interact directly. This creates:
-- **Instant Settlement**: Transactions complete immediately without order matching delays
-- **Continuous Liquidity**: Always available trading opportunities
-- **Fair Pricing**: Market-driven prices independent of traditional order books
-- **Transparent Mechanism**: All participants see the same pricing structure
-
-**Q: How do I earn rewards?**
-A: XPLR offers multiple earning opportunities:
-- **Trading Rewards**: Earn 1.8%-4.1% per transaction based on price range
-- **Referral Rewards**: Build a team and earn from their trading activities
-- **Level Bonuses**: Higher levels unlock better reward rates
-- **Reserve Tank**: Exclusive high-level mechanism for additional income
+歡迎來到 XPLR 常見問題解答中心。本指南涵蓋了從基本概念到進階功能的所有內容，幫助您充分利用我們的平台。
 
 ---
 
-## Getting Started
+## 📚 平台基礎
 
-**Q: How do I create an XPLR account?**
-A: Creating an account is simple and free:
-1. Visit the XPLR platform website
-2. Click "Sign Up" and provide your email
-3. Create a secure password (minimum 8 characters)
-4. Verify your email address via confirmation link
-5. Complete your profile with basic information
-6. Start trading immediately!
+### XPLR 是什麼？
 
-**Q: What are the system requirements?**
-A: XPLR works on:
-- **Desktop**: Windows, Mac, Linux (Chrome, Firefox, Safari, Edge)
-- **Mobile**: iOS and Android with latest browsers
-- **Minimum**: 2GB RAM, stable internet connection (2Mbps+)
+XPLR 是全球首個基於算法交易的綜合 NFT 交易平台。我們結合創新的交易機制和社區驅動的激勵措施，為 NFT 愛好者創造一個可持續的生態系統。與傳統 NFT 交易平台不同，XPLR 採用獨特的池化算法，徹底改變了交易者與數字資產的互動方式。
 
----
+**核心特性：**
+- 🔄 **算法驅動定價** - 自動化、透明的價格發現機制
+- 💧 **持續流動性** - 隨時隨地進行交易，無需等待買家或賣家
+- 🎯 **公平交易** - 所有參與者享受相同的定價結構
+- 🏆 **多層激勵** - 交易獎勵、推薦獎勵、等級獎勵
 
-## Deposit & Funding
+### 池化算法模型如何運作？
 
-### How to Deposit
+XPLR 的創新池化算法將所有 NFT 聚合在一個統一的池中，買家和賣家直接在此互動。這種模式提供了以下優勢：
 
-**Q: What deposit methods are available?**
-A: XPLR supports multiple funding channels:
+| 特性 | 傳統交易平台 | XPLR 池化模型 |
+|------|-----------|------------|
+| **結算速度** | 等待配對（數小時/天） | 即時結算（秒級） |
+| **流動性** | 依賴訂單簿深度 | 持續可用 |
+| **定價方式** | 市場情緒驅動 | 算法驅動 |
+| **交易成本** | 高（點差寬） | 低（固定費用） |
+| **用戶體驗** | 複雜 | 簡單直觀 |
 
-| Method | Processing Time | Minimum | Maximum | Fees |
-|--------|-----------------|---------|---------|------|
-| Bank Transfer | 1-3 business days | $100 | $50,000 | 0% |
-| Credit/Debit Card | Instant | $50 | $10,000 | 2.5% |
-| Cryptocurrency | 10-30 minutes | $50 | Unlimited | Network fees |
-| Digital Wallet | Instant | $50 | $5,000 | 1% |
-| Wire Transfer | 2-5 business days | $1,000 | Unlimited | $25 |
+### 我如何在 XPLR 上賺取獎勵？
 
-**Q: How do I deposit funds step-by-step?**
-A: Follow these simple steps:
+XPLR 提供多種賺取獎勵的機會，適合不同交易風格和投資目標：
 
-**Step 1: Access Your Wallet**
-- Log into your XPLR account
-- Click "Wallet" in the main menu
-- Select "Deposit Funds"
-
-**Step 2: Choose Payment Method**
-- Select your preferred deposit method
-- Review the fees and processing time
-- Click "Continue"
-
-**Step 3: Enter Deposit Amount**
-- Input the amount you wish to deposit
-- System shows total with fees included
-- Confirm the amount
-
-**Step 4: Complete Payment**
-- Follow method-specific instructions
-- Bank Transfer: Receive XPLR account details to transfer to
-- Card: Enter card information securely
-- Crypto: Send to provided wallet address
-- Digital Wallet: Authorize through your wallet app
-
-**Step 5: Confirmation**
-- Receive confirmation email
-- Funds appear in your XPLR wallet
-- Ready to start trading!
-
-**Q: Are deposits secure?**
-A: Yes! XPLR uses:
-- **256-bit SSL Encryption**: Industry-standard security
-- **PCI DSS Compliance**: Payment card data protection
-- **Cold Storage**: 95% of funds in offline secure vaults
-- **2FA Protection**: Two-factor authentication for accounts
-- **Regular Audits**: Third-party security verification
-
-**Q: What's the minimum deposit amount?**
-A: Minimum deposits vary by method:
-- Bank Transfer: $100
-- Credit/Debit Card: $50
-- Cryptocurrency: $50
-- Digital Wallet: $50
-
-**Q: Why is my deposit pending?**
-A: Deposits may be pending due to:
-- **Bank Processing**: 1-3 business days for bank transfers
-- **Verification**: First-time deposits may require verification
-- **Network Confirmation**: Crypto deposits need blockchain confirmation
-- **Fraud Check**: Unusual amounts trigger security review
-
-Contact support if your deposit takes longer than expected.
+| 獎勵類型 | 描述 | 潛在收益 |
+|--------|------|--------|
+| **交易獎勵** | 每筆交易自動獲得 | 1.8% - 4.1% 每筆 |
+| **推薦獎勵** | 邀請他人交易時獲得 | 0.8% - 1.3% 每筆 |
+| **等級獎勵** | 根據用戶等級提升 | 等級越高收益越高 |
+| **儲蓄罐獎勵** | 推薦獎勵的被動收入 | 0.1% - 0.5% 每月 |
+| **團隊獎勵** | 來自整個推薦網絡 | 無上限 |
 
 ---
 
-## Withdrawal & Cashout
+## 🚀 快速開始
 
-### How to Withdraw
+### 如何創建 XPLR 帳戶？
 
-**Q: How do I withdraw my earnings?**
-A: Withdrawing is easy and secure:
+創建帳戶簡單快速，只需 5 分鐘：
 
-**Step 1: Navigate to Withdrawal**
-- Log into your XPLR account
-- Go to "Wallet" → "Withdraw Funds"
-- Review your available balance
+**第 1 步：訪問平台**
+- 前往 XPLR 官方網站
+- 點擊頁面右上角的「註冊」按鈕
 
-**Step 2: Select Withdrawal Method**
-- Choose your preferred withdrawal destination
-- Verify the method details are correct
-- Click "Select Method"
+**第 2 步：填寫基本信息**
+- 輸入有效的電子郵件地址
+- 創建安全密碼（至少 8 個字符，包含大小寫字母和數字）
+- 同意服務條款和隱私政策
 
-**Step 3: Enter Withdrawal Amount**
-- Input the amount you want to withdraw
-- System shows fees and net amount
-- Confirm the details
+**第 3 步：驗證電子郵件**
+- 檢查您的郵箱（包括垃圾郵件文件夾）
+- 點擊確認郵件中的驗證鏈接
+- 驗證完成後自動返回平台
 
-**Step 4: Verify & Confirm**
-- Review withdrawal details carefully
-- Enter 2FA code if enabled
-- Click "Confirm Withdrawal"
+**第 4 步：完成個人資料**
+- 填寫真實姓名
+- 選擇國家/地區
+- 上傳身份驗證文件（根據當地法規）
+- 設置 2FA 雙因素認證（強烈推薦）
 
-**Step 5: Track Status**
-- Receive confirmation email
-- Track withdrawal status in your account
-- Funds arrive according to method timeline
+**第 5 步：開始交易**
+- 驗證完成後，帳戶即時激活
+- 存入資金後立即開始交易
+- 邀請朋友並開始賺取推薦獎勵
 
-**Q: What withdrawal methods are available?**
-A: Choose from multiple options:
+!!! tip "提示"
+    完成 KYC 驗證後，您可以解鎖更高的交易限額和提現額度。
 
-| Method | Processing Time | Minimum | Maximum | Fees |
-|--------|-----------------|---------|---------|------|
-| Bank Transfer | 1-3 business days | $100 | $50,000 | 0% |
-| Credit/Debit Card | 1-2 business days | $50 | $10,000 | 2% |
-| Cryptocurrency | 10-30 minutes | $50 | Unlimited | Network fees |
-| Digital Wallet | 1-2 hours | $50 | $5,000 | 1% |
-| Wire Transfer | 2-5 business days | $1,000 | Unlimited | $25 |
+### 系統要求
 
-**Q: How long does withdrawal take?**
-A: Processing times vary:
-- **Cryptocurrency**: 10-30 minutes (fastest)
-- **Digital Wallet**: 1-2 hours
-- **Credit/Debit Card**: 1-2 business days
-- **Bank Transfer**: 1-3 business days
-- **Wire Transfer**: 2-5 business days
+XPLR 支持多種設備和瀏覽器：
 
-**Q: Are there withdrawal limits?**
-A: Withdrawal limits depend on your level:
+**桌面設備**
+- Windows 7 及以上版本
+- macOS 10.12 及以上版本
+- Linux（Ubuntu 16.04+）
 
-| Level | Daily Limit | Monthly Limit | Annual Limit |
-|-------|------------|---------------|-------------|
-| LV1   | $5,000     | $50,000       | $500,000    |
-| LV2   | $10,000    | $100,000      | $1,000,000  |
-| LV3   | $25,000    | $250,000      | $2,500,000  |
-| LV4   | $50,000    | $500,000      | $5,000,000  |
-| LV5   | $100,000   | $1,000,000    | $10,000,000 |
-| LV6   | Unlimited  | Unlimited     | Unlimited   |
+**瀏覽器支持**
+- Chrome 90+
+- Firefox 88+
+- Safari 14+
+- Edge 90+
 
-**Q: Why was my withdrawal rejected?**
-A: Common reasons include:
-- **Insufficient Balance**: Not enough funds available
-- **Limit Exceeded**: Exceeded daily/monthly withdrawal limit
-- **Unverified Account**: Complete KYC verification first
-- **Suspicious Activity**: Security hold on account
-- **Invalid Details**: Incorrect withdrawal address/account
+**移動設備**
+- iOS 12+ 及最新版本 Safari
+- Android 6+ 及 Chrome/Firefox
 
-Contact support for assistance with rejected withdrawals.
-
-**Q: Can I cancel a withdrawal?**
-A: Yes, but timing matters:
-- **Before Processing**: Cancel immediately from your account
-- **During Processing**: Contact support (may be possible)
-- **After Completion**: Withdrawal cannot be reversed
+**最低配置**
+- 2GB RAM
+- 穩定網絡連接（2Mbps+）
+- 200MB 可用存儲空間
 
 ---
 
-## Trading Guide
+## 💰 充值與資金
 
-### How to Trade
+### 支持的充值方式
 
-**Q: How do I start trading on XPLR?**
-A: Trading on XPLR is straightforward:
+XPLR 支持多種便捷的充值渠道，滿足不同用戶需求：
 
-**Step 1: Browse Marketplace**
-- Log into your account
-- Navigate to "Marketplace"
-- Browse available NFTs by category
+| 充值方式 | 處理時間 | 最小金額 | 最大金額 | 手續費 | 適用地區 |
+|--------|--------|--------|--------|------|--------|
+| **銀行轉賬** | 1-3 個工作日 | $100 | $50,000 | 0% | 全球 |
+| **信用/借記卡** | 即時 | $50 | $10,000 | 2.5% | 全球 |
+| **加密貨幣** | 10-30 分鐘 | $50 | 無限 | 網絡費用 | 全球 |
+| **電子錢包** | 即時 | $50 | $5,000 | 1% | 特定地區 |
+| **電匯** | 2-5 個工作日 | $1,000 | 無限 | $25 | 全球 |
 
-**Step 2: Select an Asset**
-- Click on an NFT to view details
-- Review price, trading rewards, and seller info
-- Check trading history and demand
+### 充值步驟詳解
 
-**Step 3: Review Trading Details**
-- Current Price: Asset's current market value
-- Trading Reward: Your earnings from this trade
-- Seller Rating: Seller's reputation score
-- Estimated Total: Price + fees
+**步驟 1：訪問錢包**
+```
+登入 XPLR 帳戶 → 點擊主菜單中的「錢包」→ 選擇「充值資金」
+```
 
-**Step 4: Execute Trade**
-- Click "Buy Now" or "Make Offer"
-- Confirm the transaction
-- Enter 2FA code if enabled
-- Wait for blockchain confirmation
+**步驟 2：選擇充值方式**
+- 查看所有可用的充值方式
+- 對比手續費和處理時間
+- 選擇最適合您的方式
+- 點擊「繼續」
 
-**Step 5: Receive Asset**
-- NFT appears in your portfolio
-- Trading rewards credited automatically
-- Can trade again immediately
+**步驟 3：輸入充值金額**
+- 在文本框中輸入金額
+- 系統自動計算手續費
+- 確認總金額（金額 + 手續費）
+- 點擊「下一步」
 
-**Q: What are the trading rewards?**
-A: Trading rewards vary by price range:
+**步驟 4：完成支付**
 
-| Price Range | Trading Reward | Tier |
-|------------|----------------|------|
-| $0 - $100 | 4.1% | Premium |
-| $100 - $500 | 3.5% | High |
-| $500 - $1,000 | 2.8% | Standard |
-| $1,000 - $5,000 | 2.2% | Standard |
-| $5,000+ | 1.8% | Base |
+根據您選擇的充值方式，按照相應步驟：
 
-**Q: How do trading rewards work?**
-A: When you trade an NFT:
-1. Transaction completes on blockchain
-2. XPLR calculates reward based on price range
-3. Reward is automatically credited to your account
-4. You can withdraw or reinvest immediately
-5. Rewards count toward your trading volume
+- **銀行轉賬**：系統提供 XPLR 的銀行帳戶信息，您需要從您的銀行進行轉賬
+- **信用卡**：輸入卡號、有效期、CVV 和持卡人姓名（使用 SSL 加密保護）
+- **加密貨幣**：掃描二維碼或複製錢包地址，從您的加密錢包發送資金
+- **電子錢包**：授權彈出窗口，完成錢包應用中的確認
 
-**Q: Can I sell my NFTs?**
-A: Yes! To sell:
-1. Go to "My Portfolio"
-2. Select NFT to sell
-3. Click "List for Sale"
-4. Set your price
-5. Choose listing duration (7, 30, or 90 days)
-6. Confirm and publish
+**步驟 5：確認充值**
+- 收到確認郵件
+- 資金出現在您的 XPLR 錢包中
+- 立即可以開始交易
 
-**Q: What fees apply to trades?**
-A: XPLR charges minimal fees:
-- **Trading Fee**: 0.5% (included in transaction)
-- **Withdrawal Fee**: Varies by method (see withdrawal section)
-- **Deposit Fee**: Varies by method (see deposit section)
-- **No Hidden Fees**: All fees shown before confirmation
+!!! warning "重要提示"
+    - 首次充值可能需要額外驗證（通常 24 小時內完成）
+    - 加密貨幣充值需要區塊鏈確認（通常 10-30 分鐘）
+    - 請勿重複提交相同的充值請求
 
----
+### 充值安全性
 
-## Referral & Rewards System
+XPLR 採用行業領先的安全措施保護您的資金和個人信息：
 
-**Q: How does the referral program work?**
-A: Build your team and earn passive income:
-1. Share your unique referral link
-2. Friends sign up and start trading
-3. You earn from their trading activities
-4. Earn from their referrals too (3 generations)
-5. Rewards increase as you level up
+| 安全措施 | 說明 |
+|--------|------|
+| **256-bit SSL 加密** | 所有數據傳輸都經過加密 |
+| **PCI DSS 合規** | 支付卡行業數據安全標準認證 |
+| **冷存儲** | 95% 的資金存儲在離線安全保險庫中 |
+| **2FA 雙因素認證** | 保護帳戶免受未授權訪問 |
+| **定期安全審計** | 第三方安全公司定期驗證 |
+| **異常檢測** | AI 監控異常交易活動 |
 
-**Q: What are the referral reward rates?**
-A: Referral rewards vary by user level:
+### 常見充值問題
 
-| User Level | Referral Trading Rewards | Referral Piggy Bank Rewards | A-Grade Referral | B-Grade Referral | C-Grade Referral | Piggy Bank Release Ratio |
-|------------|-------------------------|---------------------------|------------------|------------------|------------------|------------------------|
-| LV1        | 0.80%                   | 0.50%                     | 0.50%            | 0.20%            | 0.10%            | 10%                    |
-| LV2        | 0.90%                   | 0.40%                     | 0.55%            | 0.25%            | 0.10%            | 20%                    |
-| LV3        | 1.00%                   | 0.30%                     | 0.60%            | 0.30%            | 0.10%            | 40%                    |
-| LV4        | 1.10%                   | 0.20%                     | 0.65%            | 0.30%            | 0.15%            | 60%                    |
-| LV5        | 1.20%                   | 0.10%                     | 0.65%            | 0.35%            | 0.20%            | 80%                    |
-| LV6        | 1.30%                   | 0%                        | 0.70%            | 0.40%            | 0.20%            | 100%                   |
+**Q: 為什麼我的充值還在待處理狀態？**
 
-**Q: What is the Piggy Bank (Reserve Tank) mechanism?**
-A: The Piggy Bank is a savings mechanism that accumulates referral rewards:
-- **Automatic Accumulation**: Referral rewards go into your Piggy Bank
-- **Level-Based Release**: Higher levels release more funds
-- **365-Day Validity**: Rewards expire after 1 year if not released
-- **Upgrade Bonus**: Releasing funds when you upgrade levels
-- **Exclusive Feature**: Only available for LV2+ members
+充值可能待處理的原因：
+- 銀行轉賬需要 1-3 個工作日處理
+- 首次充值需要額外驗證（最多 24 小時）
+- 加密貨幣需要區塊鏈確認（通常 10-30 分鐘）
+- 異常金額觸發安全審查
 
-**Example**: As LV3, your Piggy Bank releases 40% of accumulated rewards. When you upgrade to LV4, the remaining 60% is released.
+如果充值時間超過預期，請聯繫支持團隊。
 
-**Q: How do team levels work?**
-A: Your referral network is organized into three generations:
-- **First Generation**: Users you directly invite
-- **Second Generation**: Users invited by your first-generation referrals
-- **Third Generation**: Users invited by your second-generation referrals
+**Q: 最小充值金額是多少？**
 
-You earn referral rewards from all three generations based on your user level.
+最小充值金額因方式而異：
+- 銀行轉賬：$100
+- 信用卡：$50
+- 加密貨幣：$50
+- 電子錢包：$50
 
-**Q: What are the requirements to reach higher levels?**
-A: To unlock higher levels and access premium features:
-- **LV2**: 5 direct referrals + $1,000 trading volume
-- **LV3**: 10 direct referrals + $5,000 trading volume
-- **LV4**: 20 direct referrals + $25,000 trading volume
-- **LV5**: 50 direct referrals + $100,000 trading volume
-- **LV6**: 100 direct referrals + $500,000 trading volume + 1 year active
+**Q: 充值時是否有隱藏費用？**
+
+不，XPLR 完全透明：
+- 所有費用在確認前顯示
+- 沒有隱藏或額外費用
+- 您看到的就是您支付的
 
 ---
 
-## Account & Levels
+## 💸 提現與提款
 
-**Q: What are user levels?**
-A: XPLR features a 6-tier user level system (LV1-LV6):
-- **LV1**: Starter level (default)
-- **LV2-LV5**: Progressive levels with increasing benefits
-- **LV6**: Elite level with unlimited access
+### 如何提現
 
-Each level unlocks better reward rates, exclusive features, and access to premium mechanisms.
+提現資金簡單安全，只需幾個步驟：
 
-**Q: How do I increase my user level?**
-A: User levels are determined by:
-- **Trading Activity**: Regular trading volume
-- **Referral Network**: Size and activity of your team
-- **Account Tenure**: Time as active member
-- **Compliance**: Following platform rules
+**步驟 1：進入提現頁面**
+```
+登入帳戶 → 點擊「錢包」→ 選擇「提現資金」
+```
 
-As you trade more and build a stronger team, you'll automatically progress to higher levels with better rewards.
+**步驟 2：查看可用餘額**
+- 確認您的可用餘額
+- 檢查是否有任何待處理交易
+- 確保餘額足以提現
 
-**Q: What is the Reserve Tank?**
-A: The Reserve Tank is an exclusive mechanism for high-level users (typically LV6):
-- **Additional Income**: Earn extra commissions
-- **Passive Revenue**: Income from your entire network
-- **Requirements**: 1 year active + qualified referral network
-- **Unlimited Potential**: No caps on earnings
+**步驟 3：選擇提現方式**
+- 選擇您的首選提現目的地
+- 驗證方式詳情正確
+- 點擊「選擇方式」
 
-**Q: How do I track my progress?**
-A: Monitor your progress in your dashboard:
-- **Level Progress Bar**: Shows progress to next level
-- **Referral Stats**: Number of referrals by generation
-- **Earnings Summary**: Total rewards earned
-- **Activity Timeline**: Recent trades and referrals
+**步驟 4：輸入提現金額**
+- 輸入您要提現的金額
+- 系統顯示手續費和淨金額
+- 確認詳情無誤
+
+**步驟 5：驗證並確認**
+- 仔細檢查提現詳情
+- 輸入 2FA 代碼（如已啟用）
+- 點擊「確認提現」
+
+**步驟 6：跟蹤狀態**
+- 收到確認郵件
+- 在帳戶中跟蹤提現狀態
+- 資金將根據方式時間表到達
+
+### 支持的提現方式
+
+| 提現方式 | 處理時間 | 最小金額 | 最大金額 | 手續費 |
+|--------|--------|--------|--------|------|
+| **銀行轉賬** | 1-3 個工作日 | $100 | $50,000 | 0% |
+| **信用卡** | 1-2 個工作日 | $50 | $10,000 | 2% |
+| **加密貨幣** | 10-30 分鐘 | $50 | 無限 | 網絡費用 |
+| **電子錢包** | 1-2 小時 | $50 | $5,000 | 1% |
+| **電匯** | 2-5 個工作日 | $1,000 | 無限 | $25 |
+
+### 提現限額
+
+提現限額根據您的用戶等級而定：
+
+| 用戶等級 | 日提現限額 | 月提現限額 | 年提現限額 |
+|--------|----------|----------|----------|
+| **LV1** | $5,000 | $50,000 | $500,000 |
+| **LV2** | $10,000 | $100,000 | $1,000,000 |
+| **LV3** | $25,000 | $250,000 | $2,500,000 |
+| **LV4** | $50,000 | $500,000 | $5,000,000 |
+| **LV5** | $100,000 | $1,000,000 | $10,000,000 |
+| **LV6** | 無限 | 無限 | 無限 |
+
+!!! info "提示"
+    升級到更高等級可以解鎖更高的提現限額。詳見「等級系統」部分。
+
+### 提現時間表
+
+不同提現方式的處理時間：
+
+- **加密貨幣**：10-30 分鐘（最快）
+- **電子錢包**：1-2 小時
+- **信用卡**：1-2 個工作日
+- **銀行轉賬**：1-3 個工作日
+- **電匯**：2-5 個工作日
+
+!!! note "注意"
+    工作日不包括週末和公眾假期。實際時間可能因銀行或網絡條件而異。
+
+### 提現被拒原因
+
+如果您的提現被拒，常見原因包括：
+
+| 原因 | 解決方案 |
+|------|--------|
+| **餘額不足** | 確保可用餘額足以提現 |
+| **超過限額** | 檢查日/月/年提現限額 |
+| **帳戶未驗證** | 完成 KYC 驗證 |
+| **可疑活動** | 聯繫支持團隊解除安全凍結 |
+| **提現地址無效** | 驗證提現地址/帳戶信息 |
+
+### 取消提現
+
+您可以在某些情況下取消提現：
+
+- **處理前**：立即從帳戶取消
+- **處理中**：聯繫支持團隊（可能可行）
+- **已完成**：無法撤銷
 
 ---
 
-## Security & Support
+## 📊 交易指南
 
-**Q: How do I protect my account?**
-A: Enable these security features:
-1. **2FA Authentication**: Use authenticator app
-2. **Strong Password**: Minimum 12 characters with mixed case
-3. **Email Verification**: Keep email updated
-4. **Withdrawal Whitelist**: Approve withdrawal addresses
-5. **Login Alerts**: Get notified of new logins
+### 如何開始交易
 
-**Q: What if I forget my password?**
-A: Reset it easily:
-1. Click "Forgot Password" on login page
-2. Enter your email address
-3. Click link in confirmation email
-4. Create new password
-5. Log in with new password
+在 XPLR 上交易 NFT 簡單直觀：
 
-**Q: How do I contact support?**
-A: Multiple support channels:
-- **Email**: support@xplr.com
-- **Live Chat**: Available 24/7 in app
-- **Help Center**: Self-service articles and guides
-- **Community Forum**: Connect with other users
+**步驟 1：瀏覽市場**
+- 登入帳戶
+- 導航到「市場」
+- 按類別瀏覽可用 NFT
+
+**步驟 2：選擇資產**
+- 點擊 NFT 查看詳情
+- 查看價格、交易獎勵和賣家信息
+- 檢查交易歷史和需求
+
+**步驟 3：查看交易詳情**
+- **當前價格**：資產的當前市場價值
+- **交易獎勵**：您從此交易中獲得的收益
+- **賣家評分**：賣家的信譽評分
+- **預計總額**：價格 + 手續費
+
+**步驟 4：執行交易**
+- 點擊「立即購買」或「出價」
+- 確認交易
+- 輸入 2FA 代碼（如已啟用）
+- 等待區塊鏈確認
+
+**步驟 5：接收資產**
+- NFT 出現在您的投資組合中
+- 交易獎勵自動計入
+- 立即可以再次交易
+
+### 交易獎勵詳解
+
+交易獎勵根據 NFT 價格範圍而異：
+
+| 價格範圍 | 交易獎勵 | 等級 | 年化收益示例 |
+|--------|--------|------|-----------|
+| $0 - $100 | 4.1% | 高級 | 每月 $3.42（$100 NFT） |
+| $100 - $500 | 3.5% | 高 | 每月 $14.58（$500 NFT） |
+| $500 - $1,000 | 2.8% | 標準 | 每月 $23.33（$1,000 NFT） |
+| $1,000 - $5,000 | 2.2% | 標準 | 每月 $91.67（$5,000 NFT） |
+| $5,000+** | 1.8% | 基礎 | 每月 $150+（$10,000 NFT） |
+
+### 交易獎勵如何運作
+
+當您交易 NFT 時：
+
+1. **交易完成**：交易在區塊鏈上完成
+2. **計算獎勵**：XPLR 根據價格範圍計算獎勵
+3. **自動計入**：獎勵自動計入您的帳戶
+4. **立即可用**：您可以立即提現或再投資
+5. **計入交易量**：獎勵計入您的交易量（用於升級）
+
+### 出售 NFT
+
+要出售您的 NFT：
+
+1. 進入「我的投資組合」
+2. 選擇要出售的 NFT
+3. 點擊「掛牌出售」
+4. 設置您的價格
+5. 選擇掛牌期限（7、30 或 90 天）
+6. 確認並發佈
+
+### 交易費用
+
+XPLR 收取最低費用：
+
+| 費用類型 | 金額 | 說明 |
+|--------|------|------|
+| **交易費** | 0.5% | 包含在交易中 |
+| **提現費** | 見提現部分 | 根據提現方式 |
+| **充值費** | 見充值部分 | 根據充值方式 |
+| **隱藏費** | 0% | 完全透明 |
+
+!!! tip "提示"
+    所有費用在確認前顯示，沒有隱藏費用。
+
+---
+
+## 🤝 推薦與獎勵系統
+
+### 推薦計劃如何運作
+
+建立您的團隊並賺取被動收入：
+
+1. **分享您的推薦鏈接**：獲得個性化推薦鏈接
+2. **朋友註冊並交易**：他們使用您的鏈接註冊
+3. **您賺取推薦獎勵**：從他們的交易中獲得佣金
+4. **多代收益**：賺取來自他們推薦的人的獎勵（3 代）
+5. **升級時獎勵增加**：隨著等級提升，獎勵比例提高
+
+### 推薦獎勵率
+
+推薦獎勵因用戶等級而異：
+
+| 用戶等級 | 推薦交易獎勵 | 推薦儲蓄罐獎勵 | A 級推薦 | B 級推薦 | C 級推薦 | 儲蓋罐釋放比例 |
+|--------|-----------|-----------|--------|--------|--------|------------|
+| **LV1** | 0.80% | 0.50% | 0.50% | 0.20% | 0.10% | 10% |
+| **LV2** | 0.90% | 0.40% | 0.55% | 0.25% | 0.10% | 20% |
+| **LV3** | 1.00% | 0.30% | 0.60% | 0.30% | 0.10% | 40% |
+| **LV4** | 1.10% | 0.20% | 0.65% | 0.30% | 0.15% | 60% |
+| **LV5** | 1.20% | 0.10% | 0.65% | 0.35% | 0.20% | 80% |
+| **LV6** | 1.30% | 0% | 0.70% | 0.40% | 0.20% | 100% |
+
+### 推薦獎勵示例
+
+**場景**：您是 LV3 用戶，邀請了 3 個朋友
+
+| 推薦代 | 推薦人數 | 每人交易量 | 交易獎勵率 | 總獎勵 |
+|------|--------|---------|---------|------|
+| 第一代（直接推薦） | 3 | $1,000 | 1.00% | $30 |
+| 第二代（他們的推薦） | 6 | $500 | 0.60% | $18 |
+| 第三代（第二代的推薦） | 12 | $250 | 0.10% | $3 |
+| **總計** | 21 | - | - | **$51** |
+
+### 儲蓋罐（Reserve Tank）機制
+
+儲蓋罐是一個為活躍推薦者提供分散化收入的機制：
+
+**工作原理：**
+- 推薦獎勵自動進入您的儲蓋罐
+- 根據您的等級，每月自動釋放一定比例
+- 未釋放的獎勵在 365 天後過期
+- 升級時，剩餘餘額按釋放比例釋放
+
+**示例：**
+- 您是 LV3，儲蓋罐中有 $1,000
+- 每月釋放 40%，即 $400
+- 升級到 LV4 時，剩餘 $600 中的 60% 立即釋放（$360）
+
+**儲蓋罐要求**：
+
+要享受高佣金的儲蓋罐獎勵，您需要滿足：
+- 成為活躍推薦者後工作 1 年
+- 直接下級 A 級推薦者達 36 人
+- 下級 B 級推薦者達 66 人
+- 下級 C 級推薦者達 66 人
+
+未達條件的儲蓋罐資產自動分配給社區發展基金。
+
+### 團隊等級系統
+
+您的推薦網絡分為三代：
+
+| 代級 | 定義 | 示例 |
+|------|------|------|
+| **第一代** | 您直接邀請的人 | 您邀請的朋友 |
+| **第二代** | 第一代邀請的人 | 您朋友邀請的人 |
+| **第三代** | 第二代邀請的人 | 您朋友的朋友邀請的人 |
+
+您根據用戶等級從所有三代獲得推薦獎勵。
+
+### 升級到更高等級的要求
+
+解鎖更高等級並訪問高級功能：
+
+| 等級 | 直接推薦數 | 交易量要求 | 活躍時間 | 其他要求 |
+|------|----------|---------|--------|--------|
+| **LV1** | - | - | - | 新用戶（默認） |
+| **LV2** | 5 人 | $1,000 | - | 完成 KYC |
+| **LV3** | 10 人 | $5,000 | - | LV2 + 30 天活躍 |
+| **LV4** | 20 人 | $25,000 | - | LV3 + 60 天活躍 |
+| **LV5** | 50 人 | $100,000 | - | LV4 + 90 天活躍 |
+| **LV6** | 100 人 | $500,000 | 1 年 | LV5 + 1 年活躍 |
+
+---
+
+## 👤 帳戶與等級
+
+### 用戶等級系統
+
+XPLR 採用 6 層用戶等級系統（LV1-LV6）：
+
+| 等級 | 名稱 | 特點 | 推薦交易獎勵 | 推薦儲蓋罐獎勵 |
+|------|------|------|-----------|-----------|
+| **LV1** | 初級 | 新用戶（默認） | 0.80% | 0.50% |
+| **LV2** | 進階 | 5 個推薦 + $1K 交易 | 0.90% | 0.40% |
+| **LV3** | 高級 | 10 個推薦 + $5K 交易 | 1.00% | 0.30% |
+| **LV4** | 專業 | 20 個推薦 + $25K 交易 | 1.10% | 0.20% |
+| **LV5** | 精英 | 50 個推薦 + $100K 交易 | 1.20% | 0.10% |
+| **LV6** | 頂級 | 100 個推薦 + $500K 交易 + 1 年活躍 | 1.30% | 0% |
+
+每個等級解鎖更好的獎勵率、獨家功能和高級機制的訪問權限。
+
+### 如何提升用戶等級
+
+用戶等級由以下因素決定：
+
+- **交易活動**：定期交易量
+- **推薦網絡**：團隊規模和活躍度
+- **帳戶年限**：作為活躍成員的時間
+- **合規性**：遵守平台規則
+
+隨著您交易更多和建立更強大的團隊，您將自動進步到更高等級，獲得更好的獎勵。
+
+### 等級進度跟蹤
+
+在您的儀表板中監控進度：
+
+- **等級進度條**：顯示到下一等級的進度
+- **推薦統計**：按代級顯示推薦人數
+- **收益摘要**：總獎勵收入
+- **活動時間表**：最近交易和推薦
+
+---
+
+## 🔐 安全與支持
+
+### 保護您的帳戶
+
+啟用這些安全功能：
+
+1. **2FA 雙因素認證**
+   - 使用認證器應用（Google Authenticator、Microsoft Authenticator）
+   - 每次登入和提現時需要輸入代碼
+   - 大大提高帳戶安全性
+
+2. **強密碼**
+   - 最少 12 個字符
+   - 包含大小寫字母、數字和特殊字符
+   - 定期更改密碼
+
+3. **郵箱驗證**
+   - 保持郵箱信息最新
+   - 啟用郵箱提醒
+   - 監控帳戶活動
+
+4. **提現地址白名單**
+   - 只允許預先批准的提現地址
+   - 防止未授權提現
+
+5. **登入提醒**
+   - 新設備登入時收到通知
+   - 可立即阻止可疑登入
+
+### 忘記密碼
+
+輕鬆重置密碼：
+
+1. 點擊登入頁面的「忘記密碼」
+2. 輸入您的電子郵件地址
+3. 點擊確認郵件中的鏈接
+4. 創建新密碼
+5. 使用新密碼登入
+
+### 聯繫支持
+
+多個支持渠道可用：
+
+| 渠道 | 可用性 | 響應時間 |
+|------|------|--------|
+| **電子郵件** | contact@treasurepavilion.net | 24 小時內 |
+| **在線客服** | 應用內 24/7 | 實時 |
+| **幫助中心** | 自助文章和指南 | 即時 |
+| **社區論壇** | 與其他用戶交流 | 社區驅動 |
+
+---
+
+## 📞 需要幫助？
+
+如果您找不到答案，請聯繫我們的支持團隊：
+
+- **電子郵件**：contact@treasurepavilion.net
+- **社區**：https://treasurepavilion.net/#/
+- **工作時間**：24/7 全天候支持
+
+我們很樂意幫助您充分利用 XPLR 平台！
